@@ -1,0 +1,4 @@
+﻿  7.2.cpp
+D:\Катерина\1 семестр\Алгоритмізація і програмування\lab7.2\lab7.2\7.2.cpp(28,6): warning C4101: 'maxTemp': unreferenced local variable
+D:\Катерина\1 семестр\Алгоритмізація і програмування\lab7.2\lab7.2\7.2.cpp(29,6): warning C4101: 'temp': unreferenced local variable
+  lab7.2.vcxproj -> D:\Катерина\1 семестр\Алгоритмізація і програмування\lab7.2\Debug\lab7.2.exe
